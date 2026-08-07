@@ -1,12 +1,13 @@
 <div align="center">
   <img src="https://raw.gitcode.com/user-images/assets/10539895/079bdd1c-88af-4ddd-b168-75a00a990d5c/app_icon.jpg" alt="app_icon" width="150">
-  <h1>ARS 卫星追踪系统</h1>
+  <h1>ARS (Arcadian Sky Surveyor 苍穹巡天者) 卫星追踪系统</h1>
   <p>
     <img src="https://img.shields.io/badge/CODE-Python%20C%23-brightgreen?style=flat-square&labelColor=555" alt="CODE">
   </p>
 </div>
 基于 Python + Flask + C# + Three.js 的实时卫星追踪桌面应用，支持 3D 地球可视化、屏保、系统托盘、安装包部署。
 
+- 主仓库 https://gitcode.com/DarionDong/ARS_Satellite_Tracker
 ## Stargazers over time
 
 ![Stargazers over time](https://gitcode.com/DarionDong/ARS_Satellite_Tracker/starcharts.svg?variant=adaptive)
